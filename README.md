@@ -1,8 +1,13 @@
-1. Country
-2. Company
-3. Citizen
+                  1. f(t)
+                        \
+             2. S(t) -> 4. X -> 5. b -> 6. SV 
+                        /
+                        3. h(t)
 
-   ---
+
+### Biological: Household 1, 2, 3
+### Social: Nation 4
+### Personal: Firm 5, 6
 
 Countries, companies and citizens around the world are grappling with economic uncertainty and rapid technological change. The green transition. AI. Conflict in Europe and the Middle East. As countries accounting for more than half the world’s population go to the polls, what will influence voters?
 
